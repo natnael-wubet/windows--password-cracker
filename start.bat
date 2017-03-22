@@ -1,0 +1,1 @@
+@powershell -executionpolicy bypass -nologo -noprofile -file ./wincrack.ps1
